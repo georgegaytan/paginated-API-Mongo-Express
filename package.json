@@ -1,0 +1,28 @@
+{
+  "name": "paginated-API-Mongo-Express",
+  "version": "1.0.0",
+  "description": "Making paginated API with Mongo and Express",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggaytan00/paginated-API-Mongo-Express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ggaytan00/paginated-API-Mongo-Express/issues"
+  },
+  "homepage": "https://github.com/ggaytan00/paginated-API-Mongo-Express#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.7.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  }
+}
